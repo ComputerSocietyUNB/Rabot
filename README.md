@@ -1,5 +1,9 @@
 # Rabot
 
+[![Maintainability](https://api.codeclimate.com/v1/badges/c12b3cacf48f121f0a6a/maintainability)](https://codeclimate.com/github/ComputerSocietyUNB/Rabot/maintainability)
+
+[![Test Coverage](https://api.codeclimate.com/v1/badges/c12b3cacf48f121f0a6a/test_coverage)](https://codeclimate.com/github/ComputerSocietyUNB/Rabot/test_coverage)
+
 New version of a Telegram bot to help students with psychological/emotional issues during their academic years on Universidade de Brasília (UnB)
 
 This project is aimed at all students that suffer through their academic years and might need more help than it's usually provided. 
