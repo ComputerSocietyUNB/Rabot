@@ -1,12 +1,10 @@
 # Rabot
 
-[![Maintainability](https://api.codeclimate.com/v1/badges/c12b3cacf48f121f0a6a/maintainability)](https://codeclimate.com/github/ComputerSocietyUNB/Rabot/maintainability)
-
-[![Test Coverage](https://api.codeclimate.com/v1/badges/c12b3cacf48f121f0a6a/test_coverage)](https://codeclimate.com/github/ComputerSocietyUNB/Rabot/test_coverage)
+[![Maintainability](https://api.codeclimate.com/v1/badges/c12b3cacf48f121f0a6a/maintainability)](https://codeclimate.com/github/ComputerSocietyUNB/Rabot/maintainability) [![Test Coverage](https://api.codeclimate.com/v1/badges/c12b3cacf48f121f0a6a/test_coverage)](https://codeclimate.com/github/ComputerSocietyUNB/Rabot/test_coverage)
 
 New version of a Telegram bot to help students with psychological/emotional issues during their academic years on Universidade de Brasília (UnB)
 
-This project is aimed at all students that suffer through their academic years and might need more help than it's usually provided. 
+This project is aimed at all students that suffer through their academic years and might need more help than it's usually provided.
 
 This bot is expected to run on Telegram using RASA api. It's development team is composed of psychology, computer science and engineering students. The project started in 2017 with various steps to improve the student's knowledge to be capable of building a fully-fledged bot. Latest stable version is 2.0 on another repository. Currently at version 3.0 beta, the bot has greatly changed it's architecture.
 
